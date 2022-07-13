@@ -1,2 +1,6 @@
 # Techdegree-project -1
- Unit 1 Project
+Random Quote Generator
+
+JS Basics
+
+An app that displays random famous quotes each time a button is clicked.
